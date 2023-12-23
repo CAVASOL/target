@@ -14,8 +14,6 @@
 8. 개발 일정 및 계획  
 9. 리소스 및 도구  
 10. 참고 자료  
-Demo Screen  
-Retrospect  
 
 
 ### **1. 개요 및 목표**
@@ -137,10 +135,4 @@ Kaggle, Flutter, Dart, Firebase, etc.
 
 ### Demo Screen
 
-Check the Target's demo version [here](https://github.com/CAVASOL/target).
-
 <img align="center" src="./demo.png" width="300px" />
-
-### Retrospect
-
-> 여러가지 작업을 동시에 진행하다보니 매우 분주했습니다만 이번 기회를 통해 어떤 프로젝트를 진행하면 좋을지 그리고 어떻게 접근해야 하는지 생각하는 기회를 가질 수 있었습니다. 다양한 사용자가 쉽게 이용할 수 있는 앱이 되도록 화면 구성을 단순화하고 직관적으로 이해되는 아이콘을 선정해야할 필요를 느낍니다. 또한 실제 학습된 모델을 앱과 연결하여 UI를 적용할 때 어떤 식으로 표현해야 적절한지에 대해 더 고민해봐야 겠습니다. 
