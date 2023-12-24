@@ -65,7 +65,7 @@ It provides a concise and intuitive user experience, and focuses on designing a 
 
 **Design wireframe**
 
-<img align="center" src="./demo.png" width="900px" />
+<img align="center" src="./demo-2.png" width="900px" />
 
 **Purpose and function of each screen**
 
