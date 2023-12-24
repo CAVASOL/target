@@ -13,7 +13,7 @@
 7. Testing and Debugging Strategies  
 8. Development schedule and plan  
 9. Resources and Tools  
-10. 참고 자료  
+10. References  
 Demo Screen  
 
 
@@ -160,7 +160,7 @@ I will follow the Web Content Accessibility Guidelines (WCAG) to ensure that ima
 Kaggle, Flutter, Dart, Firebase, etc.  
 
 
-### **10. Reference**
+### **10. References**
 
 * [Image Classification with flutter](https://medium.com/geekculture/image-classification-with-flutter-182368fea3b)
 * [Fruits and Vegetables Image Recognition Dataset](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
