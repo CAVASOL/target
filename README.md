@@ -65,7 +65,7 @@ It provides a concise and intuitive user experience, and focuses on designing a 
 
 **Design wireframe**
 
-<img align="center" src="./target_early.png" width="900px" />
+<img align="center" src="./demo.png" width="900px" />
 
 **Purpose and function of each screen**
 
@@ -168,4 +168,4 @@ Kaggle, Flutter, Dart, Firebase, etc.
 
 ### Demo Screen
 
-<img align="center" src="./demo.png" width="300px" />
+<img align="center" src="./demo-1.png" width="300px" />
