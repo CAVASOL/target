@@ -4,15 +4,15 @@
 
 1. Overview and Goals 
 2. User analytics  
-3. UI/UX Design  
-4. Screen composition and functions  
-5. UX Design   
-6. Basic features of the App  
+3. UI/UX Design   
+4. UX Design   
+5. Basic features of the App
+6. Accessibility
 7. Testing and Debugging Strategies  
 8. Development schedule and plan  
 9. Resources and Tools  
 10. References  
-Demo Screen  
+11. Demo Screen  
 
 
 ### **1. Overview and Goals**
@@ -24,13 +24,13 @@ Demo Screen
 ### **3. UI/UX Design**
 
 
-### **4. Screen composition and functions**
+### **4. UX Design**
 
 
-### **5. UX Design**
+### **5. Basic features of the App**
 
 
-### **6. Basic features of the App**
+### **6. Accessibility**
 
 
 ### **7. Testing and Debugging Strategies**
@@ -44,3 +44,5 @@ Demo Screen
 
 ### **10. References**
 
+
+### **11. Demo Screen**
